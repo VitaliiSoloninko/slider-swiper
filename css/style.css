@@ -46,14 +46,14 @@ button {
 /* ------- Title ------- */
 .title {
 	text-align: center;
-	font-size: 50px;
-	padding: 50px;
+	font-size: 40px;
+	padding: 40px;
 	font-weight: 600;
 }
 /* ------- Swiper ------- */
 .swiper {
-	width: 600px;
-	height: 300px;
+	width: 900px;
+	height: 600px;
 }
 .swiper-slide {
 	text-align: center;
