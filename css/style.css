@@ -34,8 +34,7 @@ body {
 	line-height: 150%;
 	font-size: 16px;
 	font-family: Montserrat;
-	background-color: #333;
-	color: #fff;
+	color: #333;
 	display: flex;
 	justify-content: center;
 }
@@ -96,7 +95,7 @@ button {
 	@media (any-hover: hover) {
 		&:hover {
 			background-color: #cbc2fc;
-			cursor: default;
+			cursor: pointer;
 		}
 	}
 }
@@ -104,10 +103,4 @@ button {
 	transform: rotate(180deg);
 }
 .arrow_right {
-}
-.swiper-button-disabled {
-	opacity: 0.5;
-	cursor: default;
-	background: #eae6fe;
-	color: #7e74f1;
 }
