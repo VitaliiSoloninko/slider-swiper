@@ -13,4 +13,7 @@ const swiper = new Swiper('.swiper', {
 		nextEl: '.arrow_right',
 		prevEl: '.arrow_left',
 	},
+	// Parallax
+	parallax: true,
+	speed: 900,
 })
